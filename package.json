@@ -4,7 +4,8 @@
   "description": "Task Manager or To-Do List using node js, express js and mongoose",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "Arshee",
   "license": "ISC",
